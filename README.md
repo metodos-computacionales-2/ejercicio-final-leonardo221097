@@ -3,5 +3,6 @@ Laboratorio Métodos Computacionales - Segundo Semestre 2019
 Ejercicio Final
 
 
-Leonardo Alvarez Castilla
-Johan Andrey Baquero Esteban
+Leonardo Alvarez Castilla (leonardo221097)
+
+Johan Andrey Baquero Esteban (jabe1204)
